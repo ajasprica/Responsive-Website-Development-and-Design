@@ -1,0 +1,18 @@
+<head>
+   <!-- to use jQuery we need to import it like this -->
+   <script src=" http://code.jquery.com/jquery-1.11.3.min.js"></script>
+</head>
+<body>
+	<!--
+ 		in this example use use jQuery to
+ 	        change the content itself.
+  	        The $ is shorthand for the jQuery function
+		 We are passing in a CSS selector which
+		 gets this element by its id.
+		 The html function sets the html content
+		 of an element
+	-->
+	<h1 id="title" onclick="$('#title').html('Goodbye');">
+ 		Hello
+ 	</h1>	
+</body>
