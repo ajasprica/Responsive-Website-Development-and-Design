@@ -81,7 +81,7 @@ We will take you through the development of the following applications:
 
 At the end of this course, you will be able to:
 
-•	Implement animated data visualisations and graphics using advanced user interface libraries such as vis.js 
-•	Work with external data sources 
-•	Create multi user, realtime, collaborative environments
-•	Use media APIs such as the Web Audio API
+* Implement animated data visualisations and graphics using advanced user interface libraries such as vis.js 
+* Work with external data sources 
+* Create multi user, realtime, collaborative environments
+* Use media APIs such as the Web Audio API
