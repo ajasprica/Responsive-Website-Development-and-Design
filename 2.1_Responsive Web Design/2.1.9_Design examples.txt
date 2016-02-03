@@ -1,0 +1,183 @@
+[MUSIC] The most popular websites in the world use precisely the approaches that
+I've just been outlining to you. Okay. Google, which I guess we
+should now call Alphabet. Let's take a look at that. So this is the most popular
+website in the world. I'm logged into it. It's telling me a few things but
+they're over there in this corner. Basically all I've got, is this things
+which tells me what the brand is, which costs quite a lot of money I hear. And I believe there was
+some BBC involvement. I don't know. And then we just literally have a box, a
+box in the middle, and this is the classic piece of design from the last 20, 15
+years that everyone's been talking about. I know exactly what I'm doing,
+it says search in the box, I can search, and it'll give me a result. So I can search for coursera and
+immediately it's given me. I can't even spell. I don't even have to spell, that's great! And I'm where I wanna be. So just because I've
+left the Google website, doesn't mean Google's a bad website. That means Google's a good website. Okay, getting people to
+stay on your site is great. But once they've got what they want, then they'll come back next time
+when they want the same thing. Let's have a look at some other websites
+that use the same kind of approach. Now I'm already logged in here, but these sites I'm not logged in, because
+I don't have logins for these sites. [LAUGH] But Twitter again, this is a site
+which is one of the most popular websites, web platforms in the world, is saying,
+welcome to Twitter, this is what it does. A tiny amount of text like maybe 20
+words or something 30 words saying, this is what it does,
+this is how you get it. Go, get it, that's it,
+the most simple approach. And then we've got this navbar
+here with hardly anything in it. It's like the two things you wanna know,
+what it's gonna do, how you're gonna get it. Pinterest, it's exactly the same. We've got some images in the background
+that are kinda blurred out that look like some information we might want, pictures
+of stuff that we might be interested in. There's that weird Gherkin thing. All I've gotta do is log in, and it says, this guy used Pinterest
+to discover hidden London. So, Pinterest is a way of people
+sharing information about places, I can just log in with my stuff,
+and I'm there I'm done. You missed a spot! Don't forget to add your email. So they're kind of just helping you,
+all they want you to do is just log in and say, if you log in,
+we'll give you information. So, their business is actually users using
+their site, and they're just saying, okay, we want you to log in, and
+in return, we give you all this stuff. Tumblr. The same thing. It's the same site. One big picture that's telling you
+a bit about the kind of content. We can search here. This is the most complicated
+one we've seen so far. We log in, and we get loads of experience. Okay?
+It's very, very simple. And their all themed. All these different sites. There is a theme here says,
+What is Tumblr. Oh, look! Got a lovely little thing opens up and
+it says, It's so easy to use it's hard to explain. So their already thinking about that
+issue, how do you explain what it is. And they're saying its
+a really simple way, it's a simple way to allow people to make
+pictorial information on the Internet. Right.
+So this is another information sharing website. This is the number one
+product in the Internet, how do we share information about users. The users are the product,
+all these websites do that. So they capture the users quickly, and they get,
+that's how they make there money. That's basically it. So these are all solid examples, but
+what happens if you're not a Googler, your product isn't people. What happens if your product is holidays? Well, service websites, basically the idea is you put the service
+up front and center in the same way. And one of the most popular of these,
+and one of the most lauded. Is Trip Advisor. So Trip Advisor website, it won Best
+Website of 2014 I think, or possibly 2013. Well, it's a popular website. And one of the things that it did very
+well, is it put the content front and center. Rather than going to a website that said,
+like an advert, oh, we can do this. We can do that. We can do all these things. It already assumed that
+the user visiting the website wanted to find somewhere to go on holiday. So it's got a search bar just like Google. Plan your trip. You put the dates in,
+you say where you want to go, and it just finds you the hotels and
+you sort it. And that's an award-winning website,
+because it's simple. It's giving you,
+I mean this is a bit too complicated. Since that time,
+it's got a bit over the top, but there was a time when it was just one
+background image with just one search bar, and again, you know,
+very very popular design. Look at this, Skype,
+this Skype page here, you've basically got what looks like a Bootstrap
+page, You scroll all the way down. Now we're gonna talk about Bootstrap
+in a minute, but you can see, hopefully you're starting to understand why we're
+talking about Bootstrap in this course. It's because it helps us to
+get these elements right, more simply, kind of encapsulates a lot of
+these elements we've been talking about. This Skype website, if we launch it, we get this video which explains
+exactly how it's being used. But the video doesn't interrupt, you can
+see that it's slightly dulled in color. It doesn't interrupt the text. I can still read the text
+in front of the video. And again, that's the same
+thing with the PayPal website. Look at this. It's a Bootstrap template, okay? It's a responsive Bootstrap template. It's got this image,
+the same size as on the Skype website. It says what the product is It gives
+you simple links, login, and setup. And it tells you exactly what it does. Tells you exactly what PayPal does. Okay, so
+let's have a think about what this means. Bootstrap is one of these things which
+helps us get these things right quickly. Let's have a look. This is a Bootstrap themes website. In itself is a Bootstrap theme,
+and you just, and as we've already described,
+what they do is two things. Well, they do more than two things. But they make stuff very clean,
+they make stuff very simple. They make it very easy for
+people to find information they want. So that's the first thing. The second thing they do is they make it
+respond to different sizes Of device. And that's important when people
+are carrying around devices with different size screens, but
+they want to have the same experience. In the past, people would employ at
+least one designer per platform. And these days, it's appreciated
+that's untenable, cuz there are so many very popular platforms. So now they want one theme, which manages
+all these issues and that's why it exists. That's why we have Bootstrap. But, there are problems with this model. Notably, there was a recent post by, novolume.co.uk about the issues
+that designers face with this. And I'd recommend that you take a look
+at this, because the idea is that, does it just mean that all
+these websites look the same? And as we've already seen,
+yes it does, they all look the same. Like a bar at the top,
+there's a big image, simple nice text, and then you scroll down, and then when you
+change the size, you get the same thing. And you got your social
+media at the bottom. And the idea that these are unique
+websites is kind of amusing that they're not unique websites. They all have the same design ideas. The whole philosophy is reduced. It doesn't make it easier for
+us to get things right. It does allow us to use the ideas that
+we've been talking about, very simply, but at the same time, be aware that sooner or
+later, that's gonna change. People are gonna try something else. But right now,
+that's what people are doing. So let's have a look at some
+examples of bad practice. I have a litany of bad
+websites to show you. Let's start with the funny ones. So here, this is a really famous
+example of a bad news website. And I could just say it looks 90s, but that's not really helping
+us understand it. Firstly, it's inconsistent. Each header is different color, right? That'd be really nice. Let's add some color. We can make every wall a different color. But, why would you do that? It's a really stupid idea. We've got four columns. One, two, three, four. I can't scan the text,
+cuz the text is too small. In general, we have a mixture of
+color on this navigation bar as well. And it's just impossible for me to actually to understand
+which one I should look at. So it's distracting from the content. So we've got too much content on the page. We have too many articles
+all at the same time. We've got too much use of color. Also, it's inconsistent. We have the navigation bar on the side. Well, it would be okay, but it's not the
+same size as all the rest of the columns. So when we talk about consistency,
+we don't just talk mean in terms of color. We also mean in terms of sizing and
+padding. And this is all over the place. Again, too much stuff, too much content. Look at all this stuff we do,
+we do all this stuff. Nobody knows, nobody cares. They can't remember it. It's like oh, I can just get, there's
+like, this looks like the advertising page in the back of a magazine, for
+poorly made low quality adverts. And, it's a web site nightmare. Again, loads of different colors. We've got red, blue, kind of a weird pukey
+yellow and green and purple, all together. We don't need any of those colors. Look at, text is just all over the place. And there's no rhyme or reason to why
+any of the images are where they are. They're just kind of randomly
+placed on the screen. Now even if there are only a few them,
+if the images are randomly placed, that's bad, right? One bit of text and
+three randomly placed images, bad. But this is like all over the place,
+so it's all kinds of bad. This is another one which is famous. I'm looking at this,
+I have no idea what it's for. It's an ad, yeah, I think, so
+it's the 28th Country Show. It's, oh, I don't know what to say. Yellow, yellow text. Yellow text, why? Why would you make text yellow? What's the thing? Is it because you want
+it to glow in the dark? So all our users are reading this
+in the middle of the night and they can't see normally. Great, brilliant. And we'll put that next to some blue text,
+with like drop shadow. Why would you? Okay, that's fine, but why? Just a reason, no reason. This, okay there's a video on this,
+that's a good start. But again, we've got a brown back,
+why have a brown background? Why would you have, I'm not saying why in
+some ironic way, I just wanna know why. And the fact is there's no reason
+other than the person likes brown. Bad. Okay, the text is all over the place,
+we have stretched text with a drop shadow, right, so firstly, most designers,
+if you ever ask them if they can stretch the text, they're gonna be like,
+what are you talking about? That's crazy? That's like going to a mechanic and
+saying, can you put water in the engine, it's like, argh! So yeah, you just don't do that. This looks, yeah, at least the background's full of
+these links is the same color. But what's this? It's just like a rainbow, it's horrible. Again, we've got this weird background,
+this marble, I can't read it. Oh yeah,
+the less said about that the better. I'm not sure what I can say about that,
+all this. So again, inconsistency in terms of where things
+are placed, there's a Facebook link. Yeah, better off just having that. You've got this is a navbar. These two colors, why have these colors? Again, color backgrounds, what's
+the point of having a color background? Why choose one over another. The titles are inconsistent, there is an inconsistent padding
+from this side to this side. This numbering is just madness. You know they are in different
+places based on the centered images. Again central justifications are extremely
+dangerous, so probably would avoid it. Different colored, yeah exactly,
+different colored text here highlighted, very interesting,
+different sizes of texts. Yeah, that's craziness. That's also craziness. Yeah, all kinds of craziness. So you can see that all
+these sites are really bad. So we have a litany of bad websites. But we also have deceptive approaches and
+I wanna show you one. And this allows us to fallback
+on what Edward Tuft was saying about corporate approach. Not that being corporate is being bad. But the notion of a corporate report being
+difficult to understand, not being clear. And I want to show you an example. This is a website that on
+the surface of it looks very clear. It seems that it's about a man who
+likes his guitar, there's a guitar, this guy likes his guitar. That's great. And there's all these people,
+they're all happy, they're all smiling. So what is this? So. It's something that I can do,
+so how do I get to it? What, oh, so
+I've got a lot of information about stuff. I'm not sure what it is but is this guy? These look like businessmen and
+businesswomen in suits looking very tidy. Oh, it's a personal coaching website. So they sell personal coaching. And to make me a better guitarist. I'm not sure what they're selling me. But I tell you what. Because I can't figure out what they're
+selling me, I'm immediately suspicious. This is an example of something
+called a dark pattern. I'm looking at the site. It looks well designed. It's providing information, but
+not really telling me what it is. So I'm being drawn into something
+slowly and I'm not really clear at any stage what this service is,
+without having to dig a lot deeper. So as soon as I try and
+click on a link, again I know this page which is got testimonials,
+I mean, I'm still not sure. When you consider all the great
+websites we were looking at, we knew exactly what they were for. I'm still not really sure what this is. It says, redefine what's possible. That, to me, just seems like
+something which doesn't tell me what, this website's help me
+really find what's possible. So, I'm already really suspicious, and I think it's no surprise when you
+think about who this group are. They provide personal coaching,
+and if you Google them, you find out that they actually
+originated from a cult. So this is the kind of strategy, that people who don't really wanna tell
+you what they're about, would use. Professional looking photographs,
+clear clean nice design, but the information about what the product is,
+isn't there. Okay, and that's one example of
+something called a dark pattern. There's a website called darkpatterns.org
+which is well worth checking out. It's really, it's a good list of bad
+practice examples that says the kind of things that, if you do this with
+a website, you're generally not being kind to your users, or you're certainly
+not offering something that they want. I would recommend that you check that out,
+it's up to you and your own morality, whether you use any of those ideas or not,
+but that's why we call them dark patterns. Okay, so in summary, user experience
+design comes before software design. Understand why users are going
+to your website, okay. Be simple. Give users what they want quickly. Make it simple and clear,
+easy to understand what they're getting. Be consistent. Don't keep changing your mind about
+how their site looks or how it works. Keep the same set of rules,
+and don't obfuscate. Don't pad your website with content,
+images, and text that don't relate to the purpose. Avoid the corporate report issue. So I think that that's my guidelines for
+how to build a better website, how to build something which is useful and
+interesting for users. And I hope that you can
+use these tools and techniques and ideas when you're
+analyzing other websites, and try to come up with a design that
+you know is gonna work for clients. And also more importantly the users
+that those clients are serving. So that's that. [MUSIC]
