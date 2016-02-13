@@ -1,0 +1,39 @@
+.jumbotron {
+	position: relative;
+	background-image: url("../images/banner.gif");
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 560px) {
+  .jumbotron { background-image: none; }
+}
+
+blockquote{
+	margin-top: 40px;
+	-webkit-transition: opacity 3s ease-in-out;
+    -moz-transition: opacity 3s ease-in-out;
+    -ms-transition: opacity 3s ease-in-out;
+    -o-transition: opacity 3s ease-in-out;
+     opacity: 1;
+}
+
+.album_cover{
+	width:60%;
+	height:60%
+	border: 2px solid;
+	padding: 10px;
+	border-radius: 50%;
+
+}
+
+.col-md-4 h2 {
+	text-align: center;
+}
+
+
+.photo_list{
+	width:100%;
+	max-height:100px;
+	padding:10px;
+}
